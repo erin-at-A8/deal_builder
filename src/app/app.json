@@ -1,0 +1,17 @@
+{
+  "name": "Deal Builder",
+  "description": "Add line items to deals from selected placements.",
+  "scopes": [
+    "crm.objects.deals.read"
+  ],
+  "public": false,
+  "extensions": {
+    "crm": {
+      "cards": [
+        {
+          "file": "./deal-card.json"
+        }
+      ]
+    }
+  }
+}
