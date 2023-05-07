@@ -4,7 +4,7 @@ exports.main = async (context, sendResponse) => {
     sections: [
       {
         type: 'text',
-        text: 'Add line items to this deal from available placements.',
+        text: 'Add line items to this deal from available inventory.',
       },
       {
         type: 'button',
