@@ -13,7 +13,7 @@ exports.main = async (context, sendResponse) => {
           type: 'IFRAME',
           width: 700,
           height: 400,
-          uri: 'https://hubnerd.erincallie.com/deal-builder?deal=' + hs_object_id,
+          uri: 'https://test-portal-growthpanda-3403744.hs-sites.com/deal-builder?deal=' + hs_object_id,
         },
       },
     ], 
