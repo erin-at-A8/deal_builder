@@ -11,8 +11,8 @@ exports.main = async (context, sendResponse) => {
         text: 'Build This Deal',
         onClick: {
           type: 'IFRAME',
-          width: 700,
-          height: 400,
+          width: 1100,
+          height: 700,
           uri: 'https://test-portal-growthpanda-3403744.hs-sites.com/deal-builder?deal=' + hs_object_id,
         },
       },
